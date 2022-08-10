@@ -1,22 +1,21 @@
-.email-button:hover{
-    background-color: hsl(170, 45%, 43%);
+.email-button:hover {
+  background-color: hsl(170, 45%, 43%);
 }
-.email:focus{
-    outline: 10px solid red;
+.email:focus {
+  border: 1px solid red;
 }
-.fylo-work:hover{
-    cursor: pointer;
-    color: hsl(170, 45%, 63%);
-    border-color: hsl(170, 45%, 63%);
-    fill: hsl(170, 45%, 63%);
-}
-
-
-.button-email:hover{
-    background-color: hsl(170, 45%, 43%);
+.fylo-work:hover {
+  cursor: pointer;
+  color: hsl(170, 45%, 63%);
+  border-color: hsl(170, 45%, 63%);
+  fill: hsl(170, 45%, 63%);
 }
 
-.fa:hover{
-    border-color: hsl(170, 45%, 43%);
-    color: hsl(170, 45%, 43%);
+.button-email:hover {
+  background-color: hsl(170, 45%, 43%);
+}
+
+.fa:hover {
+  border-color: hsl(170, 45%, 43%);
+  color: hsl(170, 45%, 43%);
 }
