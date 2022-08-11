@@ -8,7 +8,6 @@
   cursor: pointer;
   color: hsl(170, 45%, 63%);
   border-color: hsl(170, 45%, 63%);
-  fill: hsl(170, 45%, 63%);
 }
 
 .button-email:hover {

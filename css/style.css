@@ -158,7 +158,11 @@ h2 {
   height: 40px;
   margin-right: 16px;
 }
-
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
 .user-name {
   font-size: 14px;
   font-family: 'Raleway', sans-serif;
